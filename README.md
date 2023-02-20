@@ -1,2 +1,1 @@
-# majorproject-2023.github.io
-Major project - Style Transfer
+# Cross lingual Style Transfer for a low resource tribal language Soliga
